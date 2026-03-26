@@ -1,0 +1,1 @@
+console.log("added app.js in project setup");
